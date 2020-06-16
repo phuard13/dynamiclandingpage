@@ -55,8 +55,8 @@ function setBgGreet() {
 
 
 //  Run
-showTime();
-setBgGreet();
+// showTime();
+// setBgGreet();
 
 
  
